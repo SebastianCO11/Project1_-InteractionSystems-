@@ -55,6 +55,7 @@ The audio editing approach focuses on:
 - `Swiped-Trailer.aup3` - Audacity project file with all edits
 - `Final video.mp4` - Final video with re-edited audio
 
+
 ---
 
 *This project was completed as part of the Interactive Systems course miniproject requirements.*   
