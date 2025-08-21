@@ -57,4 +57,4 @@ The audio editing approach focuses on:
 
 ---
 
-*This project was completed as part of the Interactive Systems course miniproject requirements.*
+*This project was completed as part of the Interactive Systems course miniproject requirements.*   
