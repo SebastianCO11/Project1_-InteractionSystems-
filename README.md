@@ -53,7 +53,7 @@ The audio editing approach focuses on:
 - `README.md` - This documentation
 - `Swiped-Trailer.mp3` - Re-edited audio
 - `Swiped-Trailer.aup3` - Audacity project file with all edits
-- `Final video.p4` - Final video with re-edited audio
+- `Final video.mp4` - Final video with re-edited audio
 
 ---
 
